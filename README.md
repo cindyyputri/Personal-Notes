@@ -2,7 +2,7 @@
 Website catatan pribadi untuk submission kelas belajar membuat aplikasi web dengan react dari dicoding
 
 ## Getting Started
-This project doesn't have node modules. So download this Personal-Notes file, then you have to add node modules file yourself.
+This project doesn't have node modules. So download this Personal-Notes file, then you have to add node modules file yourself with `npm install`
 
 ### Available Scripts
 In the project directory, you can run:
